@@ -1,22 +1,20 @@
-# Thai ID Card Traffic Violation System 🚦
+# Thai ID Card OCR + Traffic Violation AI
 
-A simple desktop application for recording traffic violations using Thai ID card information.
+This AI project extracts information from Thai ID cards:
 
-## ✨ Features
+- Thai Name
+- English Name
+- ID Number
+- Age (calculated from birthdate)
+- Traffic Violation Assignment
 
-- 📸 Upload Thai ID card images
-- 👤 Display ID card information (ID number, name, address)
-- 🚗 Select from 3 traffic violations:
-  - ไม่สวมหมวกนิรภัย (No Helmet) - 500 THB fine
-  - ขับรถเร็วเกินกำหนด (Speeding) - 1000 THB fine  
-  - ขับรถย้อนศร (Wrong Way) - 2000 THB fine
-- 📝 Generate official traffic tickets
-- 💾 Save violation records
+## Requirements
 
-## 🚀 Quick Start
+- Python 3.9+
+- Tesseract OCR installed
+- Thai and English language models installed in Tesseract
 
-1. **Install Python** (3.6 or higher)
+## Installation
 
-2. **Install the only dependency:**
-   ```bash
-   pip install pillow
+```bash
+pip install -r requirements.txt
