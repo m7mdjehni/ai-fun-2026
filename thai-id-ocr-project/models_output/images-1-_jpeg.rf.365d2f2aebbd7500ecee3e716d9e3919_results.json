@@ -1,0 +1,33 @@
+{
+    "filename": "images-1-_jpeg.rf.365d2f2aebbd7500ecee3e716d9e3919.jpg",
+    "tesseract": {
+        "raw_text": ";\nae .\nFil\n\naoe\n\n“yee :\nov fed\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.346
+    },
+    "easyocr": {
+        "raw_text": "dี\ngู\n.ี่\n.",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 11.924
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "filename": "IMG_9840_1620x1080_jpeg.rf.0678e38c58a1b62ed8289c55429bdd25.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.258
+    },
+    "easyocr": {
+        "raw_text": "aoh\nslild.\n:,;:.\n.\n.\n::n\nfi..\na.:.าา\n:!:\naist ขทห\n;:;\n:..\nilst 'sn i7\n..;:.!1\n::!1:..4\nแpnis\nแ..มทร:\niaim!นลย\n:'1|\n.aiiiiil\nnitว al:\nรว/ซนม:\n6uit\n.\nเม..\n:::`\n0.`.31\nwfiing\n;?1:\"\nุง;\niกilan ยา{\n:.!.:!?\nแ\n qupqusudun]\niujaแin\n.itiinjil",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 35.856
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "filename": "images-2-_jpeg.rf.db669908f7c738e3466236b867f4cd3f.jpg",
+    "tesseract": {
+        "raw_text": "น 71เวง hee จ้\n\n๒ ห her lt Pi i สใหนา\nโณ  A\n\n‘wie ฎี\n\nลจมกฟี  ba\nจก หร\nอั้ ty it  1พร์เวคง วแยแต\nล ๓     .\n     peas \"ชิวหก       j\n=:  ห  กล  su ps  in  ae\nes  Timbre 8\n\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "สใหนา\nโณ"
+        },
+        "time_seconds": 0.631
+    },
+    "easyocr": {
+        "raw_text": "!:,:':\n:: 4\nเ\njninlill ailaili\n!al:\nurifa\nกเขรน#\n#!#: \"|\nsup.:\n!\":::\nm.:\nriiliiiin\n!!'!.!.'\n.e์|\n!.\nมldย\n;า",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 22.119
+    }
+}

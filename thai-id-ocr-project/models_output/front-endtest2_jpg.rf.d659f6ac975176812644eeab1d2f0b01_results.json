@@ -1,0 +1,33 @@
+{
+    "filename": "front-endtest2_jpg.rf.d659f6ac975176812644eeab1d2f0b01.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.501
+    },
+    "easyocr": {
+        "raw_text": "อ\nun{it\n.\nสบ\nบ.\ni\n.\nrdy lt\ni\nาา\nร\nเท\n.า\n( 69\niv\nal\n(\n.\nแด\n.บราา\n.^\nust\n...\nauaatnuท\nyt ตa\nสam0 \naana\nwi6t\nเพว(\nm.\nหนนรา\nบ\nง\nox\nรา\nnil\ntst\n..\n ipudounขว\nwนนเทยา\n nodnuux\nกเท\nบทบาเบชอบ\nวรงทนาา\nglm]ร\nนา\nกกซเยกาก\n tooง\n rruopwn\nเมวว",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "กเท\nบทบาเบชอบ\nวรงทนาา"
+        },
+        "time_seconds": 48.704
+    }
+}

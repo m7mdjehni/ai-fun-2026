@@ -1,0 +1,33 @@
+{
+    "filename": "front-endtest2_jpg.rf.8df51860174f7b49f04939da9fe86b7f.jpg",
+    "tesseract": {
+        "raw_text": "เร\n2  ห\nร 1 0\n:   ไว\n  t\ngs 2;\n6\n\nว เน\n\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.376
+    },
+    "easyocr": {
+        "raw_text": ":ู\njl\na\ns.\nตี๋\nงู\nรู\nรุ่\n:\n;ุ่\n:\n:ู่\n:\nตุ้\nรู่\nรู\nรุ่\n\nรู้",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "ตี๋\nงู\nรู\nรุ่"
+        },
+        "time_seconds": 29.18
+    }
+}

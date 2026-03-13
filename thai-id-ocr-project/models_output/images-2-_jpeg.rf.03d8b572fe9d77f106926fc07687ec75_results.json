@@ -1,0 +1,33 @@
+{
+    "filename": "images-2-_jpeg.rf.03d8b572fe9d77f106926fc07687ec75.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.379
+    },
+    "easyocr": {
+        "raw_text": "แท้\nmi\nนา\n;;\"5,\nก\nmii\nเมน\nแงอ\nii\nmiil|\naง\nบน\nกุมเไย่||เ\nมก\naii\nก\nเ\n/m\"]\ni)n4\nา",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "เมน\nแงอ"
+        },
+        "time_seconds": 20.987
+    }
+}

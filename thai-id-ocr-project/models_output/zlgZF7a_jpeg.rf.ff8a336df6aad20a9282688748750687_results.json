@@ -1,0 +1,33 @@
+{
+    "filename": "zlgZF7a_jpeg.rf.ff8a336df6aad20a9282688748750687.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.264
+    },
+    "easyocr": {
+        "raw_text": "d\nเp\n\n..\n!$-\n\nบัดะปาะจาจัวปาะชาาน\n.\n.\n..\n..\n.\n.ารว\n3202\nปรยานา\n..\n..5.\n.\nทานฺบาร\n..\n.\n...\n....\n.\n.\n.\n..\n....\nา.\n..\nาอา\nงวร\n.\n..\n.\n.\nนวรวรร\n..\n2๑๑<\n..\n,^^412\nน\nคววร\n.\n0851\n...\nsozo7\nรวร\nจก\n.\nqosas\n50498 6 47\nร.\n.\n.\n..",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "าอา\nงวร"
+        },
+        "time_seconds": 53.046
+    }
+}

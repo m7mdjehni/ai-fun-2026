@@ -1,0 +1,33 @@
+{
+    "filename": "FmR7lm1aAAIa4Qd_jpeg.rf.3162d7a17f7c789c94b58ae771beff8a.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.274
+    },
+    "easyocr": {
+        "raw_text": ":ู\n..\nรู่\n8\nรรุ\n::\n..\nกุง\n:..:\n:.\nd.\na\n:ุ\n. .: ๑\n.รุ่\n. : .:.\n8\nเ.\n๓\na.\nรูุ\nic",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 20.42
+    }
+}

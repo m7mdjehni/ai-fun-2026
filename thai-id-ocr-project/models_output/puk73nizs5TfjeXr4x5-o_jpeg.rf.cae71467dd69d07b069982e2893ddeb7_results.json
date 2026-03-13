@@ -1,0 +1,33 @@
+{
+    "filename": "puk73nizs5TfjeXr4x5-o_jpeg.rf.cae71467dd69d07b069982e2893ddeb7.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.27
+    },
+    "easyocr": {
+        "raw_text": "t.\n..\n35 0\ny.\n:.\ni..\n,: .\n.\nd.\nd.\n.สมโ;\n.:\n.\n:.\n..\n\nบัตรประจาดัวประชาชัน\nงาประกำล้าประเทาน\n...\nจือค้าแกะยอ๓าง\n.:...:\n::!299\n:0042\nาย\n.caid\nมรัง:\nโซติกสนันทน์:\n.`::..\n.\n:.:/::`:\n::.าันท\nร.ค.\n....\n::31.\na\n.: :.:\nสาฆชา\n..55/5\nเ9\na..\nมา\n.รณบร.\n:มราง\n.รรง\ni....\n..\nาบ\n.า\ni....\n..\n3588\n::.\n.\naบmา",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "บัตรประจาดัวประชาชัน\nงาประกำล้าประเทาน"
+        },
+        "time_seconds": 35.883
+    }
+}

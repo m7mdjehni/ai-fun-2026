@@ -1,0 +1,33 @@
+{
+    "filename": "S__19128333_jpeg.rf.1a008cc0c8fa70e60f2eb45faa702776.jpg",
+    "tesseract": {
+        "raw_text": "ออกบเล้1อนู ตสชาษๆ\nays in om\nคา6 68ผู สหกๆ\n\nSQUIB, นอฉารยูนนตด\n\npiu. 00    ร\n\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "อนู ตสชาษๆ"
+        },
+        "time_seconds": 0.496
+    },
+    "easyocr": {
+        "raw_text": "บ..\n ::.!*:.\n.:::;\n`[.!`.:]{\n.!\ni\njiann\n.ขาต:\n: : !:.\nmasinai.\n wiliiiiitj\n.miine!\npaputhtint,\n: !!..^1\n:.:::!!:.:.\n.::!.\n8ห:ขm๓นุง:\nผดูแงุ\nauli]\n.:,: ::..:\nมเม.:\n0!เว:(!:{4!!\"!:.:'\n::..:.:`.3::\nมเาว\"\n..\njutin\nกรใ\nเ!ร\n;sttirnpiun",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 30.291
+    }
+}

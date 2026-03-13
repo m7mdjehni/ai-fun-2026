@@ -1,0 +1,33 @@
+{
+    "filename": "zlgZF7a_jpeg.rf.33ce95044b244f3664042abf677e5118.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.265
+    },
+    "easyocr": {
+        "raw_text": ".\nผ\no)\nง.\nอ\nเา\n.\n.\nd.\n:\n:\n.\n;\n^\nรู\n:ู\n?;$.",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 18.061
+    }
+}

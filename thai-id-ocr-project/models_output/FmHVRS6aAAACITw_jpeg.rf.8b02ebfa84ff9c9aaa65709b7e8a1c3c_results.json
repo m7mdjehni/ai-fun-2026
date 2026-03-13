@@ -1,0 +1,33 @@
+{
+    "filename": "FmHVRS6aAAACITw_jpeg.rf.8b02ebfa84ff9c9aaa65709b7e8a1c3c.jpg",
+    "tesseract": {
+        "raw_text": "ย จวจตร เหล่าศีริวิจิตร\n» Mr ง่ลม\n\nเกิดรําเท็ 12 00. 2541\n\nvee ot Barth 12 Aug. 1988\n\nสาสนา พร\n\n“ 62 หมู่ที 11 ต.ดอกช้าง อ.สมะใคร\n\nหนองดาย\n\nรด 2565\n.+ออกปัตร\n\nRay vee\nDele ๓ เสอนะ\n\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "12 Aug. 1988",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "จวจตร เหล่าศีริวิจิตร"
+        },
+        "time_seconds": 0.543
+    },
+    "easyocr": {
+        "raw_text": "ปตรบ\nahimational dd card\nสมระจาเราน!\n.lia sic. nimna\nเก้าคนธระาย\nจิรจิตร เหล่าศิริวิจิตร\nเม\nmr. jiraiit\nกm.เ\nloasiriviilt\n.เก่คาน# 12 ส.ค/ใ541.\ndatanะ dinn\ni2\n199:\nาสน1\nท่อย`62 หม่ที ui.ค.คากขำ`3.สระไคร.\n.แนอค่าย\n,^. ?565;\nแปสกร?ร13\n.ออกมผา\n..\nพมทาทมาลาย์\n^u !?:\nเมายณนาคมมเหะ\n..20ม\n:4\nงาามวาายาบดา\ndud ol iemoa.\n41ก.ว315\naug.",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "เก้าคนธระาย\nจิรจิตร เหล่าศิริวิจิตร\nเม"
+        },
+        "time_seconds": 34.612
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "filename": "FmSMgxlaYAUx9Jb_jpeg.rf.76134150003c59a70685e59b0f562501.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.289
+    },
+    "easyocr": {
+        "raw_text": "ลเa.\n:dos ax\nกบอบยะ\nวน:\nd t9\nออรชอน\nooonao\n'8/88 \n.at\n:6651.\n..692\nอรง.\nหaน.\natusu\n:tonissg\ndasrcota pann\nส..บ\n?ps7\n.?0800:\n.u\n311:\naguqnign\nal\n.p4ยอ",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "กบอบยะ\nวน"
+        },
+        "time_seconds": 28.24
+    }
+}

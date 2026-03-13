@@ -1,0 +1,33 @@
+{
+    "filename": "FmHVRS6aAAACITw_jpeg.rf.782b2eb15efc86d9526a5c1c02093a7c.jpg",
+    "tesseract": {
+        "raw_text": "Sa\n“            ayit\n\n| 6 Loasiniviyyy\nคิดกัด์ 12 สด 2541\n\nคณา wn\n\n-  \" 62 พมูที่1 ตคลกชั้ง อกะใคร\n\nหนองดาย\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "12 สด 2541",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "ตคลกชั้ง อกะใคร"
+        },
+        "time_seconds": 0.43
+    },
+    "easyocr": {
+        "raw_text": " thal\n;ii\nวเก้แกยฺฺตเาย\ns.\nrajit\nhane\nl2\nol\n12\nทียยฺ่s2 พท่ แ\nศะศากรม.า\nส.a. 2565\n.\na.\n!]4^.2573\n:2023\nไาณ\nม\nพหะ\nii\na.\nบตรปร.:\nงาตาประชา\nเลาระเด้าบาะฉาาน\n atienal:\n lhena caion\nก้นเงัน\nเหล่าศิวิวิจิตร\nมก.\n.รา\n loasiriviilt\nเก๊านัฬ์\nส.ค:\n2541:\ndae\n binth\naug.\n1998:\nสาสน1\n.สาะไกร\n.:แมคาย\nhiaa:\n aun\n.าบาาฬนายา\n.\n aa.\nเงทมวเทลาฬง\ndau.\n.เ.",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "งาตาประชา\nเลาระเด้าบาะฉาาน"
+        },
+        "time_seconds": 37.365
+    }
+}

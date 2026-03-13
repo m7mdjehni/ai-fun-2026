@@ -1,0 +1,33 @@
+{
+    "filename": "FmNqjlCaYAAUAMl_jpeg.rf.61342ce4fbcccee7780e15f7f7ea8722.jpg",
+    "tesseract": {
+        "raw_text": "ลัง\n100๕ 'ยชิเทน et wre ac\n999ะ ๒ ๒ ot puny\nเบลลตทุเบพวปบุญ ere tect\nWIBAUTY อยเรส won\n\nกคนทุชรกเอน เพยบใชโบ พ ส9อ\n(692 [TT อะญระแรร  ค\n\n.            1 08 96200\n2ทร๒ OI [๒นงเวพมผู Wut เจ365]\nฑ์ต์\n\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "กคนทุชรกเอน เพยบใชโบ"
+        },
+        "time_seconds": 0.754
+    },
+    "easyocr": {
+        "raw_text": "aatamoia ton\n.ดะ\nam!a ubun stat\n...\nเ.ปะ\n yoo2\n.gt\nmาปงต\n...\nv3&`:04 91\n)รeเ\naasgsurnud\n.เ.นร.าา\nigjuanx sssn.\nรมเบ\nrruทurnlsน ทูเบรนตวีน9า\n102 96400 .8691 1\n.ว\npigd ai iguonen jeul.\nทวเทระกวัตวรงฎาา\nชทง\nสนชางเาน",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "ทวเทระกวัตวรงฎาา\nชทง\nสนชางเาน"
+        },
+        "time_seconds": 29.903
+    }
+}

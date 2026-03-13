@@ -1,0 +1,33 @@
+{
+    "filename": "FmR7nEdakAAa4ks_jpeg.rf.701b647aea21f358b76069447687f311.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.696
+    },
+    "easyocr": {
+        "raw_text": ".ะ\nd\n:3\n::.\"\n25\naadonal\nไชน\n|00529\nง.:ประจาควบระชาชนา\n1037:\nมระสว่าง\n.ภสรา:\n .patans\n.ang\nน:..\npaas\n2!,3^\n.\ne.\nn.ว.\nu.\nอม.วา\nมทวฬา\nยกทรารอม\na..",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "วา\nมทวฬา\nยกทรารอม"
+        },
+        "time_seconds": 27.403
+    }
+}

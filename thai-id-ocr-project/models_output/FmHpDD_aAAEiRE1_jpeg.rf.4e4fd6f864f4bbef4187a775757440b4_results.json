@@ -1,0 +1,33 @@
+{
+    "filename": "FmHpDD_aAAEiRE1_jpeg.rf.4e4fd6f864f4bbef4187a775757440b4.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.371
+    },
+    "easyocr": {
+        "raw_text": "....\n4u13๖\n..ระ\n..\n.ออ..\n....\n.:...:: \n.?99\"๔:\n:.:.:",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 20.844
+    }
+}

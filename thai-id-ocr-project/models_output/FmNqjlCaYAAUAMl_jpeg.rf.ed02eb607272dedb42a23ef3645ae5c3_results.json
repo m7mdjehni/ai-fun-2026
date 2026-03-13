@@ -1,0 +1,33 @@
+{
+    "filename": "FmNqjlCaYAAUAMl_jpeg.rf.ed02eb607272dedb42a23ef3645ae5c3.jpg",
+    "tesseract": {
+        "raw_text": "ties ระจําตัวประชาชนไน NE pal cans\ni.   เซนแต่ต้าสลนไฟน 7499 00796 20 ใ\nแลแลนอลอ MER. กัญญารดา พรายมณะการจา\n\nMoss อย nt\n\n. =       สูจพะ\n=.       .     เลย เฉพ= Phramkasern\n=      -     path 16 สี ด 2544\n\nแจล โ ภิเณ 2ฬา\n๒\nเก\n*          เฉินเฉุครลิตน\n“        2\nae                 ดา   -\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "กัญญารดา พรายมณะการจา"
+        },
+        "time_seconds": 0.803
+    },
+    "easyocr": {
+        "raw_text": " thai national id icerd\nมั้ดรประงาตัวประชาชุ๘\nบ..กา\n1 7499 00796 20 1\n mamancao. ueย\nพราหมณ์เกษม\nสหลันร่:ซรรน.ส.\n kanyat\n...^\nmna\n.\nighramkasem\nเาาวันฆ\nis ส.ค. 2544\n.มง\n1s aug. 2001\nเมื่องอุดรศิลต์\naอ ..aวราา\n.รา\nวังม..รราภาม\nโดก๊อ)\nสะ.ง\n..\ns.1\n^3-94301403\n..\n...\nกัญญารัตน์\nปร\nพนา\nยุารอ์",
+        "fields": {
+            "id_number": "1749900796201",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "พราหมณ์เกษม\nสหลันร่"
+        },
+        "time_seconds": 36.19
+    }
+}

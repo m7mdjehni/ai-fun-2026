@@ -1,0 +1,33 @@
+{
+    "filename": "w644_jpeg.rf.b411f4fda35e2a983800cd3232eb7976.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.336
+    },
+    "easyocr": {
+        "raw_text": "a\n:$\nธุ้\n::ว:\n.\nเ๘ี\n:.\nอั\n.9\nรี\n..\nรู้ะ\ns\ns\n::\nร.\nซู.\nธุ่\nรู๋\nธุ๋\nธิ๋\nธู่\nรุ\nธู้\n.\n.\ngิ\nตี๋\nรู๋\ngู\nธิ่\nอี\nิู๋\nธุ้\nธู\n..\n.\nรู้\n:ธู๋\nรุู\nรู๋\nอู้\nลู้\nธุ์\ni\n:\nรุ๋\nธู",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "ธุ่\nรู๋\nธุ๋\nธิ๋\nธู่\nรุ\nธู้"
+        },
+        "time_seconds": 35.016
+    }
+}

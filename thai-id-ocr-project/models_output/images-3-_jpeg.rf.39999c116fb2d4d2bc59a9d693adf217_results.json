@@ -1,0 +1,33 @@
+{
+    "filename": "images-3-_jpeg.rf.39999c116fb2d4d2bc59a9d693adf217.jpg",
+    "tesseract": {
+        "raw_text": "y  igen ง\n\ntele ol tet vod a\nmma\n\ne oS ซา    a  เนศ บสต     a\nre ล จน     เลพ we\n\n| Bet ee\n\n“es we     เพษานลรคี            เบ\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "เนศ บสต"
+        },
+        "time_seconds": 0.553
+    },
+    "easyocr": {
+        "raw_text": "hufiliitiitl\nwhaan\n]| m1\n atia uin\nlnr a[\nเnr แไท!ม\nน:\n.i.:in\n:p.\nแม.mi]il\nar\ni]aa mm\nmm.ia\ni#l!\n';|.|\niiild\nvill\nm{!!i]ท!\nai.!!",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 23.249
+    }
+}

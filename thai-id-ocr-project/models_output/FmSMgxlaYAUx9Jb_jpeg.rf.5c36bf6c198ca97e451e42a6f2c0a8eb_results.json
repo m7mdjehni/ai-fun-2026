@@ -1,0 +1,33 @@
+{
+    "filename": "FmSMgxlaYAUx9Jb_jpeg.rf.5c36bf6c198ca97e451e42a6f2c0a8eb.jpg",
+    "tesseract": {
+        "raw_text": "That National 1D Card we\n\n๒\n\ntan seme วิโลงหมาอลงอ\nSate 26 กุณ. 2842\nู76 0อ=๒๐ อยรม 16 Sep. 1999\n\n28 A 2006       06 Re 2009\nRa    )\n\n14 Sey.\nDeve of feptre\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "16 Sep. 1999",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "26 กุณ. 2842",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "๒๐ อยรม"
+        },
+        "time_seconds": 0.587
+    },
+    "easyocr": {
+        "raw_text": "tral natlona!\nid card\nบัตรประจาตัอประชาธีนี2\n.าาน\n2502 00302;5?`0\nมค้วนระอรสทุาน:ส.\nกอินทิพย์\nธรรมดา\n..mร\n miiss. cvinthlp.\n..เ.\nfhammat\nเกิสวันห์\n::!5 ก:4: 2542\nอมวaทนยา\n!5 sep\n13ว9\nทรนง\nท< 38/9 หมาาาฎกสาพลังใน\nวังนเข็น\n.มก\nเ3h\"255+\nn.588\n...าป\nกรบ..นาาา\n.\n..บ\n.\n202\n.า\n..\n2204-02:02121000\n.ง",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "2\n.าาน\n2502",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "กอินทิพย์\nธรรมดา"
+        },
+        "time_seconds": 39.34
+    }
+}

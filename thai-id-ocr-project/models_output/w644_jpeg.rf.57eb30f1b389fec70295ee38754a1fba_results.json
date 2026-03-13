@@ -1,0 +1,33 @@
+{
+    "filename": "w644_jpeg.rf.57eb30f1b389fec70295ee38754a1fba.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.276
+    },
+    "easyocr": {
+        "raw_text": "in.\njo\nต\nj\n!ฺาย\nปช\nาว\n.ต\niisi.\nis\nq\n.\nตน\nต\nเ9\njo\nii\nาุ\n69$1180-|\n:809!\nuidn\nวาา\n6?0ใ\nวง(\nnเ8urun\ntueentnน81\n.?รใ\nnuเทรaเท)\n3!80\n!ข?\n'\":!&.\nเาบงยน\n)957\n. a39ก3g๒suท83m\"\nว\n/iu!'8\n๗ุ้บ\"๒\n:?96{\n.aeu\nn.\n3!!0\nsos7\nuniour\nu.endis\ndถนวกแอน1\nวเอย\nม.า\n9389/39๒\nssu\nวuเn\npะวา\nกaseน\nriongn\ngu9833unts8s\nmy\nreri\n nonoวrnuodr\n%61689[&๒168939๒7\n^[48383&๒1338[1381:",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "ฺาย\nปช\nาว"
+        },
+        "time_seconds": 45.417
+    }
+}

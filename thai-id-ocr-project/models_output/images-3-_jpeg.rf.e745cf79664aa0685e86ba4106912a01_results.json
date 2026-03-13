@@ -1,0 +1,33 @@
+{
+    "filename": "images-3-_jpeg.rf.e745cf79664aa0685e86ba4106912a01.jpg",
+    "tesseract": {
+        "raw_text": "|              สด Tn Naa! 1 Cr เอ\nสตา, ]1 ป11     '\ntate vans ป\n=}       ‘\na - ™ Ye Hutt!\nแดจยย Tanger?\n\n| si เฟ (ine\n2\n\nq น อ: อ           ภาย เซ\n\ncole of Unt\n\na ญูสู่แก\n. ซี  aot\nst\n\nan\nyee\n\nฏาสน\n. ซื นต แล 0\nsm il งส847  บยา ฝีซี่\n‘ee 6 ame arn    ง\n\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "เอ\nสตา"
+        },
+        "time_seconds": 0.874
+    },
+    "easyocr": {
+        "raw_text": "สงลปะยทเโมไปตมมฺต๊ป\nปa\nuiif.\nslli\nเii\nวinn ง!ฺ\nพliห เปทยมํ\n.:. !';\n.?`;!/!:\n .ii/ iill\n๓# ไi: \n.\nเพ:ข!i่\nก\nmm\n:wiil:\nr.\nlil\nแii\"\nแท่\naii:",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 23.074
+    }
+}

@@ -1,0 +1,1784 @@
+[
+    {
+        "filename": "FmHpDD_aAAEiRE1_jpeg.rf.4e4fd6f864f4bbef4187a775757440b4.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.371
+        },
+        "easyocr": {
+            "raw_text": "....\n4u13๖\n..ระ\n..\n.ออ..\n....\n.:...:: \n.?99\"๔:\n:.:.:",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 20.844
+        }
+    },
+    {
+        "filename": "FmHpDD_aAAEiRE1_jpeg.rf.608357e8a7904d43db1dec2de6e122b6.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.466
+        },
+        "easyocr": {
+            "raw_text": ".ว7\nเ.า\nr..\n'13 !\ntuucit:.\nq\n.วอษ\n:เ:\nnpasite\nงร\nสนอn",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "งร\nสนอ"
+            },
+            "time_seconds": 21.964
+        }
+    },
+    {
+        "filename": "FmHpDD_aAAEiRE1_jpeg.rf.a49201101a4b03daf64a14fd359b8f5b.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.295
+        },
+        "easyocr": {
+            "raw_text": "ตา\n.:\n?ู\nรุ\nตี\nมู่\n:ุ\n;ู\nงุ\n:ุ\n.\nรุ\n.าี\nj\niา\nรู\nต\na[\nก.\nmi.i",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "รุ\nตี\nมู่"
+            },
+            "time_seconds": 21.849
+        }
+    },
+    {
+        "filename": "FmHVRS6aAAACITw_jpeg.rf.26e3e0ea878dfd8abcecc9e91769c571.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.472
+        },
+        "easyocr": {
+            "raw_text": "2\nต\ngู่\nรุ\nระ\nจู\n=ู้\n..\n:๖.\n..:\nว\n?ู\n:\n.รู\nรุ\nธู๋\nธู๋\nธุู\n.\nรู\n..\n.\nธู่\nตู๋\n2\n:\nรี๋\nลู่\nรู่\nธุ์\nลี่\nรี่\nธี๋\n;ู่\n:รู๋\nธุ๋\nธู้\nอู้\nรู่\nรู๋\nธุ๋",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ู่\nรุ\nระ\nจู"
+            },
+            "time_seconds": 30.692
+        }
+    },
+    {
+        "filename": "FmHVRS6aAAACITw_jpeg.rf.782b2eb15efc86d9526a5c1c02093a7c.jpg",
+        "tesseract": {
+            "raw_text": "Sa\n“            ayit\n\n| 6 Loasiniviyyy\nคิดกัด์ 12 สด 2541\n\nคณา wn\n\n-  \" 62 พมูที่1 ตคลกชั้ง อกะใคร\n\nหนองดาย\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "12 สด 2541",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ตคลกชั้ง อกะใคร"
+            },
+            "time_seconds": 0.43
+        },
+        "easyocr": {
+            "raw_text": " thal\n;ii\nวเก้แกยฺฺตเาย\ns.\nrajit\nhane\nl2\nol\n12\nทียยฺ่s2 พท่ แ\nศะศากรม.า\nส.a. 2565\n.\na.\n!]4^.2573\n:2023\nไาณ\nม\nพหะ\nii\na.\nบตรปร.:\nงาตาประชา\nเลาระเด้าบาะฉาาน\n atienal:\n lhena caion\nก้นเงัน\nเหล่าศิวิวิจิตร\nมก.\n.รา\n loasiriviilt\nเก๊านัฬ์\nส.ค:\n2541:\ndae\n binth\naug.\n1998:\nสาสน1\n.สาะไกร\n.:แมคาย\nhiaa:\n aun\n.าบาาฬนายา\n.\n aa.\nเงทมวเทลาฬง\ndau.\n.เ.",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "งาตาประชา\nเลาระเด้าบาะฉาาน"
+            },
+            "time_seconds": 37.365
+        }
+    },
+    {
+        "filename": "FmHVRS6aAAACITw_jpeg.rf.8b02ebfa84ff9c9aaa65709b7e8a1c3c.jpg",
+        "tesseract": {
+            "raw_text": "ย จวจตร เหล่าศีริวิจิตร\n» Mr ง่ลม\n\nเกิดรําเท็ 12 00. 2541\n\nvee ot Barth 12 Aug. 1988\n\nสาสนา พร\n\n“ 62 หมู่ที 11 ต.ดอกช้าง อ.สมะใคร\n\nหนองดาย\n\nรด 2565\n.+ออกปัตร\n\nRay vee\nDele ๓ เสอนะ\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "12 Aug. 1988",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "จวจตร เหล่าศีริวิจิตร"
+            },
+            "time_seconds": 0.543
+        },
+        "easyocr": {
+            "raw_text": "ปตรบ\nahimational dd card\nสมระจาเราน!\n.lia sic. nimna\nเก้าคนธระาย\nจิรจิตร เหล่าศิริวิจิตร\nเม\nmr. jiraiit\nกm.เ\nloasiriviilt\n.เก่คาน# 12 ส.ค/ใ541.\ndatanะ dinn\ni2\n199:\nาสน1\nท่อย`62 หม่ที ui.ค.คากขำ`3.สระไคร.\n.แนอค่าย\n,^. ?565;\nแปสกร?ร13\n.ออกมผา\n..\nพมทาทมาลาย์\n^u !?:\nเมายณนาคมมเหะ\n..20ม\n:4\nงาามวาายาบดา\ndud ol iemoa.\n41ก.ว315\naug.",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "เก้าคนธระาย\nจิรจิตร เหล่าศิริวิจิตร\nเม"
+            },
+            "time_seconds": 34.612
+        }
+    },
+    {
+        "filename": "FmNqjlCaYAAUAMl_jpeg.rf.27608aabdcd0046b70ae500a9e110328.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.318
+        },
+        "easyocr": {
+            "raw_text": ".:::.::\n.า.`\nfusua ct\naursan\n.!oo2\nวรเ\nat\nอ..\na\n91 ;ซ8a.\nตา\nหรนทurrนยหวทอยันทงทิน\naain\n.1.,02 96400`\nา\ndit.\n.\nกุณระเกยัตนวัยาบรี\n:ว)\nต:\n..\nต.\n nionit wirsaraa\nbnt\n.นาน\nviist\nบย\nm8599เ49448\naaau9n\n...\n.\n38-!)`;!3\n``!:\ns6.p/\n.า.\nruongn\n...\nreit\n..ร\n(ว",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ตา\nหรนท"
+            },
+            "time_seconds": 37.74
+        }
+    },
+    {
+        "filename": "FmNqjlCaYAAUAMl_jpeg.rf.61342ce4fbcccee7780e15f7f7ea8722.jpg",
+        "tesseract": {
+            "raw_text": "ลัง\n100๕ 'ยชิเทน et wre ac\n999ะ ๒ ๒ ot puny\nเบลลตทุเบพวปบุญ ere tect\nWIBAUTY อยเรส won\n\nกคนทุชรกเอน เพยบใชโบ พ ส9อ\n(692 [TT อะญระแรร  ค\n\n.            1 08 96200\n2ทร๒ OI [๒นงเวพมผู Wut เจ365]\nฑ์ต์\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "กคนทุชรกเอน เพยบใชโบ"
+            },
+            "time_seconds": 0.754
+        },
+        "easyocr": {
+            "raw_text": "aatamoia ton\n.ดะ\nam!a ubun stat\n...\nเ.ปะ\n yoo2\n.gt\nmาปงต\n...\nv3&`:04 91\n)รeเ\naasgsurnud\n.เ.นร.าา\nigjuanx sssn.\nรมเบ\nrruทurnlsน ทูเบรนตวีน9า\n102 96400 .8691 1\n.ว\npigd ai iguonen jeul.\nทวเทระกวัตวรงฎาา\nชทง\nสนชางเาน",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ทวเทระกวัตวรงฎาา\nชทง\nสนชางเาน"
+            },
+            "time_seconds": 29.903
+        }
+    },
+    {
+        "filename": "FmNqjlCaYAAUAMl_jpeg.rf.ed02eb607272dedb42a23ef3645ae5c3.jpg",
+        "tesseract": {
+            "raw_text": "ties ระจําตัวประชาชนไน NE pal cans\ni.   เซนแต่ต้าสลนไฟน 7499 00796 20 ใ\nแลแลนอลอ MER. กัญญารดา พรายมณะการจา\n\nMoss อย nt\n\n. =       สูจพะ\n=.       .     เลย เฉพ= Phramkasern\n=      -     path 16 สี ด 2544\n\nแจล โ ภิเณ 2ฬา\n๒\nเก\n*          เฉินเฉุครลิตน\n“        2\nae                 ดา   -\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "กัญญารดา พรายมณะการจา"
+            },
+            "time_seconds": 0.803
+        },
+        "easyocr": {
+            "raw_text": " thai national id icerd\nมั้ดรประงาตัวประชาชุ๘\nบ..กา\n1 7499 00796 20 1\n mamancao. ueย\nพราหมณ์เกษม\nสหลันร่:ซรรน.ส.\n kanyat\n...^\nmna\n.\nighramkasem\nเาาวันฆ\nis ส.ค. 2544\n.มง\n1s aug. 2001\nเมื่องอุดรศิลต์\naอ ..aวราา\n.รา\nวังม..รราภาม\nโดก๊อ)\nสะ.ง\n..\ns.1\n^3-94301403\n..\n...\nกัญญารัตน์\nปร\nพนา\nยุารอ์",
+            "fields": {
+                "id_number": "1749900796201",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "พราหมณ์เกษม\nสหลันร่"
+            },
+            "time_seconds": 36.19
+        }
+    },
+    {
+        "filename": "FmR7lm1aAAIa4Qd_jpeg.rf.3162d7a17f7c789c94b58ae771beff8a.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.274
+        },
+        "easyocr": {
+            "raw_text": ":ู\n..\nรู่\n8\nรรุ\n::\n..\nกุง\n:..:\n:.\nd.\na\n:ุ\n. .: ๑\n.รุ่\n. : .:.\n8\nเ.\n๓\na.\nรูุ\nic",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 20.42
+        }
+    },
+    {
+        "filename": "FmR7lm1aAAIa4Qd_jpeg.rf.618b5dafd009bfc1812c9c0d2cca72fb.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.455
+        },
+        "easyocr": {
+            "raw_text": "รุ้\na\n.8\na.\nวี่\nรุ\ns\n:ุ\nย\nรรุ๊\n.\n;\nก่;\n:\nc\nกู\nรุ\n...\n.:\nช.\n:\n8\nู\nร\n:ู่\n\nt\n:ู\nธุ่",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "วี่\nรุ"
+            },
+            "time_seconds": 29.933
+        }
+    },
+    {
+        "filename": "FmR7lm1aAAIa4Qd_jpeg.rf.700c565e14fb35382698af94d76de385.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.541
+        },
+        "easyocr": {
+            "raw_text": "a\ns.\nซุ\nยู่\n.\naร\nรู\n..\ne.\n<\nรู้\nรุ์\n.\nรู้\n.ู๋\nรุ้\nรุ้\n.\n.\nรุ์\n\nธู๋\n;ู่",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ซุ\nยู่"
+            },
+            "time_seconds": 29.779
+        }
+    },
+    {
+        "filename": "FmR7mxjaEAMwCYt_jpeg.rf.1744c337d0a9a02fd806393cde00e8c0.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.256
+        },
+        "easyocr": {
+            "raw_text": "::อา\ni.",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 11.158
+        }
+    },
+    {
+        "filename": "FmR7mxjaEAMwCYt_jpeg.rf.474e80f6d52b9d1516e77a491d0ce117.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.398
+        },
+        "easyocr": {
+            "raw_text": "..\n#f}\nธุ๋",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 12.522
+        }
+    },
+    {
+        "filename": "FmR7mxjaEAMwCYt_jpeg.rf.5179a50f049c00aff39fc81a8a917e3c.jpg",
+        "tesseract": {
+            "raw_text": "ง                              .    .\n~                fo-.\noD) แลงแยอเธองลลงรศ์\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.383
+        },
+        "easyocr": {
+            "raw_text": ";ุ่\nอู๋\na\nai\nร",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ุ่\nอู๋"
+            },
+            "time_seconds": 11.95
+        }
+    },
+    {
+        "filename": "FmR7nEdakAAa4ks_jpeg.rf.26789a76eab28ab34206a91ade9cc516.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.255
+        },
+        "easyocr": {
+            "raw_text": "4ct8or!+9\niora\n:-+4 2\"3\nnf sz\nsz\nass7\nวuoma a#\nวuนารaned\nเยอบ\n..\nา\nเย3\nyeว a.\n....\na: 2143\nos\n.aะuท ra3urnา\nะท.\n..\nun'\n.!881\naay\n.อฆ\n...\nรศ.\n alcnssm\n nauna ncousasp.on\nzsor\n.8cs00\nranit\nriungn.",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 39.425
+        }
+    },
+    {
+        "filename": "FmR7nEdakAAa4ks_jpeg.rf.701b647aea21f358b76069447687f311.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.696
+        },
+        "easyocr": {
+            "raw_text": ".ะ\nd\n:3\n::.\"\n25\naadonal\nไชน\n|00529\nง.:ประจาควบระชาชนา\n1037:\nมระสว่าง\n.ภสรา:\n .patans\n.ang\nน:..\npaas\n2!,3^\n.\ne.\nn.ว.\nu.\nอม.วา\nมทวฬา\nยกทรารอม\na..",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "วา\nมทวฬา\nยกทรารอม"
+            },
+            "time_seconds": 27.403
+        }
+    },
+    {
+        "filename": "FmR7nEdakAAa4ks_jpeg.rf.ef9496d2e80c89f3f7247d0e66693341.jpg",
+        "tesseract": {
+            "raw_text": "4 €8 67900 อ01 โ\n\nกณะ ๕วจกอ ขาญาณ๓\n\nฑณเ คระท(พเลระก๒ก\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "กณะ ๕วจกอ ขาญาณ๓"
+            },
+            "time_seconds": 0.444
+        },
+        "easyocr": {
+            "raw_text": "..\nmอrเพนa teu\nuหวนท rgm ัusuเ\"ง\n.ง.\n toouinr sz\n..\nscsz rรบ sz  wen\nbaremesed\nรเพ\n slegasm lgpy\nมาน\nsziso0 zcoi\nan !venen  juu\n meuragpeote aspteon\n....\n uunnu\n trov.\n..\n.:.\nวร.?าา\nc8",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 27.408
+        }
+    },
+    {
+        "filename": "FmSMgxlaYAUx9Jb_jpeg.rf.5c36bf6c198ca97e451e42a6f2c0a8eb.jpg",
+        "tesseract": {
+            "raw_text": "That National 1D Card we\n\n๒\n\ntan seme วิโลงหมาอลงอ\nSate 26 กุณ. 2842\nู76 0อ=๒๐ อยรม 16 Sep. 1999\n\n28 A 2006       06 Re 2009\nRa    )\n\n14 Sey.\nDeve of feptre\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "16 Sep. 1999",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "26 กุณ. 2842",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "๒๐ อยรม"
+            },
+            "time_seconds": 0.587
+        },
+        "easyocr": {
+            "raw_text": "tral natlona!\nid card\nบัตรประจาตัอประชาธีนี2\n.าาน\n2502 00302;5?`0\nมค้วนระอรสทุาน:ส.\nกอินทิพย์\nธรรมดา\n..mร\n miiss. cvinthlp.\n..เ.\nfhammat\nเกิสวันห์\n::!5 ก:4: 2542\nอมวaทนยา\n!5 sep\n13ว9\nทรนง\nท< 38/9 หมาาาฎกสาพลังใน\nวังนเข็น\n.มก\nเ3h\"255+\nn.588\n...าป\nกรบ..นาาา\n.\n..บ\n.\n202\n.า\n..\n2204-02:02121000\n.ง",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "2\n.าาน\n2502",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "กอินทิพย์\nธรรมดา"
+            },
+            "time_seconds": 39.34
+        }
+    },
+    {
+        "filename": "FmSMgxlaYAUx9Jb_jpeg.rf.76134150003c59a70685e59b0f562501.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.289
+        },
+        "easyocr": {
+            "raw_text": "ลเa.\n:dos ax\nกบอบยะ\nวน:\nd t9\nออรชอน\nooonao\n'8/88 \n.at\n:6651.\n..692\nอรง.\nหaน.\natusu\n:tonissg\ndasrcota pann\nส..บ\n?ps7\n.?0800:\n.u\n311:\naguqnign\nal\n.p4ยอ",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "กบอบยะ\nวน"
+            },
+            "time_seconds": 28.24
+        }
+    },
+    {
+        "filename": "FmSMgxlaYAUx9Jb_jpeg.rf.e518cfe5d78938de82dc21da896fc6c2.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.272
+        },
+        "easyocr": {
+            "raw_text": "อ\n.\nกบ\n..>\nก.า\ns.\nan:\n.\nst\naii\n0 2g:\nooon\nj.\n...\n.า\nกา.\n.เu\n....\nmy\nะบ\nnuaaue\ncun3อ\n..\n cc6u\n..รอ\n.amnes\n .das\n..\nท.\n[993\n.8/88\n.น\nกบ\nๆ\nวนเนน1\nprgn\ndiinai^9d\n lonseg\n.า.\n.\naan\npreว\nกmนnยu\n..\n zosoo\n ruongn\nราท\n zosz.\naan aonenn\nijวน.\n ostsspeptoanpton",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 45.077
+        }
+    },
+    {
+        "filename": "front-endtest2_jpg.rf.3ff8ae8718b95fbb107a21a2f4fc6ea8.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.315
+        },
+        "easyocr": {
+            "raw_text": "^.\ntี\nดี\n:\nผู\n;ุ่;\nรู่\nรุ้\nอู้\n;ุ\nสู้\nรุ\nรู้\n.\n:ุ\nรุ่\nรู่\nรุ้\nรุ\nรุ\nรุ\nรู้",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "รู่\nรุ้\nอู้"
+            },
+            "time_seconds": 26.047
+        }
+    },
+    {
+        "filename": "front-endtest2_jpg.rf.7ac0e04c98868575cb68bcfa53ad8b91.jpg",
+        "tesseract": {
+            "raw_text": "นย\n,\n\nstabil แง่\n\nแก\n\nHis\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.345
+        },
+        "easyocr": {
+            "raw_text": "ตี่\n;ู้\nรู์\nc.:\nธุ๋\n8\nธู๋\n3\nวธิ\na\nอู้\nรู\nธู่\n.s\n.\n๘\n.\nส\na\na\n.\na\n.\nว.\n..\na.",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ู้\nรู์"
+            },
+            "time_seconds": 23.392
+        }
+    },
+    {
+        "filename": "front-endtest2_jpg.rf.8df51860174f7b49f04939da9fe86b7f.jpg",
+        "tesseract": {
+            "raw_text": "เร\n2  ห\nร 1 0\n:   ไว\n  t\ngs 2;\n6\n\nว เน\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.376
+        },
+        "easyocr": {
+            "raw_text": ":ู\njl\na\ns.\nตี๋\nงู\nรู\nรุ่\n:\n;ุ่\n:\n:ู่\n:\nตุ้\nรู่\nรู\nรุ่\n\nรู้",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ตี๋\nงู\nรู\nรุ่"
+            },
+            "time_seconds": 29.18
+        }
+    },
+    {
+        "filename": "front-endtest2_jpg.rf.9232210a93186f90131a033e6c8dfb79.jpg",
+        "tesseract": {
+            "raw_text": "ga อ0ษ100 sowt fines\nCIENT Te R TEESE\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.417
+        },
+        "easyocr": {
+            "raw_text": "|8+\n: +--\"\nยเ\naa\nt\nanst\n.ต.ว\nมบ\n.uรา\nu9\n.ngoes\nss ogtoo souc\nsoaceamneatse. nang\naน.\nzงย.\n..ท\n.ทาา\naonan",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 26.876
+        }
+    },
+    {
+        "filename": "front-endtest2_jpg.rf.d659f6ac975176812644eeab1d2f0b01.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.501
+        },
+        "easyocr": {
+            "raw_text": "อ\nun{it\n.\nสบ\nบ.\ni\n.\nrdy lt\ni\nาา\nร\nเท\n.า\n( 69\niv\nal\n(\n.\nแด\n.บราา\n.^\nust\n...\nauaatnuท\nyt ตa\nสam0 \naana\nwi6t\nเพว(\nm.\nหนนรา\nบ\nง\nox\nรา\nnil\ntst\n..\n ipudounขว\nwนนเทยา\n nodnuux\nกเท\nบทบาเบชอบ\nวรงทนาา\nglm]ร\nนา\nกกซเยกาก\n tooง\n rruopwn\nเมวว",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "กเท\nบทบาเบชอบ\nวรงทนาา"
+            },
+            "time_seconds": 48.704
+        }
+    },
+    {
+        "filename": "front-endtest2_jpg.rf.db8b1525e7e4855d3c797fcb552aedf6.jpg",
+        "tesseract": {
+            "raw_text": "บดร1ระงาต กระช ขน่าน, National ID Coed\nสลล\n\nเล ณ 0ปไไ7ก   4     ,  4\nน CME Wo ในต  จึงไพศาล\noy.\ntoe     rae’\ntear oat 42\n\nก 2าด [พล ต\n\nลงง จจิ\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ระงาต กระช ขน่าน"
+            },
+            "time_seconds": 0.707
+        },
+        "easyocr": {
+            "raw_text": "มัศรประจาตัวประชาชน์\nmiai pational qd ciid\nท\n.\ni0 01 693\n..า.\nนายฺากฤษฎีพานด:จึงไฆศาล\nก..\nม::\ni..i\n chuagphasal\nเา .สเมชารม.\ndaant\n`.: .:: :)\nภุชเนาต่าาเง\nมยบ\nแวเทพมาัมทมี่\n:../:;\nเ:ร.:\nม\n;:\nเอรบาร\n..\n.า",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ภุชเนาต่าาเง\nมยบ\nแวเทพมาัมทมี่"
+            },
+            "time_seconds": 35.413
+        }
+    },
+    {
+        "filename": "images-1-_jpeg.rf.365d2f2aebbd7500ecee3e716d9e3919.jpg",
+        "tesseract": {
+            "raw_text": ";\nae .\nFil\n\naoe\n\n“yee :\nov fed\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.346
+        },
+        "easyocr": {
+            "raw_text": "dี\ngู\n.ี่\n.",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 11.924
+        }
+    },
+    {
+        "filename": "images-1-_jpeg.rf.7209969a0e5aab877d1f2d8428f8f6f5.jpg",
+        "tesseract": {
+            "raw_text": "-    .   <4    -\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.3
+        },
+        "easyocr": {
+            "raw_text": ".'5r\nต.\na.\n?22\n.\n.ร.\nอ.\n.!-\nนร\n.ะา\npid\nบรเรทาฏิ\n.รอาน.\n.อกเ\nมา\nวราา\n...\n...\n.า\nราแอ",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "อกเ\nมา\nวราา"
+            },
+            "time_seconds": 25.349
+        }
+    },
+    {
+        "filename": "images-1-_jpeg.rf.b920f0dda57ec9cb83fca7ef66e32482.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.49
+        },
+        "easyocr": {
+            "raw_text": "1-::1\n::\nเบะ\nยร::๖!\n.:..\nกำ.าร\nกประา\n2.:\n= :{7.\nวันปี\n..ะ.\n..ร..\nai.\naรา.",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "เบะ\nยร"
+            },
+            "time_seconds": 20.916
+        }
+    },
+    {
+        "filename": "images-2-_jpeg.rf.03d8b572fe9d77f106926fc07687ec75.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.379
+        },
+        "easyocr": {
+            "raw_text": "แท้\nmi\nนา\n;;\"5,\nก\nmii\nเมน\nแงอ\nii\nmiil|\naง\nบน\nกุมเไย่||เ\nมก\naii\nก\nเ\n/m\"]\ni)n4\nา",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "เมน\nแงอ"
+            },
+            "time_seconds": 20.987
+        }
+    },
+    {
+        "filename": "images-2-_jpeg.rf.7806e95835e647316b1c98e6a44e3b22.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.255
+        },
+        "easyocr": {
+            "raw_text": "อู้\n=\n=",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 10.377
+        }
+    },
+    {
+        "filename": "images-2-_jpeg.rf.db669908f7c738e3466236b867f4cd3f.jpg",
+        "tesseract": {
+            "raw_text": "น 71เวง hee จ้\n\n๒ ห her lt Pi i สใหนา\nโณ  A\n\n‘wie ฎี\n\nลจมกฟี  ba\nจก หร\nอั้ ty it  1พร์เวคง วแยแต\nล ๓     .\n     peas \"ชิวหก       j\n=:  ห  กล  su ps  in  ae\nes  Timbre 8\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "สใหนา\nโณ"
+            },
+            "time_seconds": 0.631
+        },
+        "easyocr": {
+            "raw_text": "!:,:':\n:: 4\nเ\njninlill ailaili\n!al:\nurifa\nกเขรน#\n#!#: \"|\nsup.:\n!\":::\nm.:\nriiliiiin\n!!'!.!.'\n.e์|\n!.\nมldย\n;า",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 22.119
+        }
+    },
+    {
+        "filename": "images-3-_jpeg.rf.39999c116fb2d4d2bc59a9d693adf217.jpg",
+        "tesseract": {
+            "raw_text": "y  igen ง\n\ntele ol tet vod a\nmma\n\ne oS ซา    a  เนศ บสต     a\nre ล จน     เลพ we\n\n| Bet ee\n\n“es we     เพษานลรคี            เบ\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "เนศ บสต"
+            },
+            "time_seconds": 0.553
+        },
+        "easyocr": {
+            "raw_text": "hufiliitiitl\nwhaan\n]| m1\n atia uin\nlnr a[\nเnr แไท!ม\nน:\n.i.:in\n:p.\nแม.mi]il\nar\ni]aa mm\nmm.ia\ni#l!\n';|.|\niiild\nvill\nm{!!i]ท!\nai.!!",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 23.249
+        }
+    },
+    {
+        "filename": "images-3-_jpeg.rf.bfd290f917a5b445130599903901d717.jpg",
+        "tesseract": {
+            "raw_text": "เจนงน Pas a อ งล\n\n=   ats  ‘ ge\n\nเจน  fae\n\nAy         งุพ:\n\nฆ,\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.456
+        },
+        "easyocr": {
+            "raw_text": ";;ง\n#|.\njlil\n/:. `\n:;]iย!!ii\n,ุ`|]\n.:.:\nเฆ\nตาฟ]\n.;|:::|/1:!\n,:::|\n.:เห]กฆ.]ทระยย\njuท\n:.\"1|1;:\njมื่l\n;;.::.!::\n:iสi.\n:)ll\n:|]`.::\n.i.. il\n..",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "เฆ\nตาฟ"
+            },
+            "time_seconds": 20.73
+        }
+    },
+    {
+        "filename": "images-3-_jpeg.rf.e745cf79664aa0685e86ba4106912a01.jpg",
+        "tesseract": {
+            "raw_text": "|              สด Tn Naa! 1 Cr เอ\nสตา, ]1 ป11     '\ntate vans ป\n=}       ‘\na - ™ Ye Hutt!\nแดจยย Tanger?\n\n| si เฟ (ine\n2\n\nq น อ: อ           ภาย เซ\n\ncole of Unt\n\na ญูสู่แก\n. ซี  aot\nst\n\nan\nyee\n\nฏาสน\n. ซื นต แล 0\nsm il งส847  บยา ฝีซี่\n‘ee 6 ame arn    ง\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "เอ\nสตา"
+            },
+            "time_seconds": 0.874
+        },
+        "easyocr": {
+            "raw_text": "สงลปะยทเโมไปตมมฺต๊ป\nปa\nuiif.\nslli\nเii\nวinn ง!ฺ\nพliห เปทยมํ\n.:. !';\n.?`;!/!:\n .ii/ iill\n๓# ไi: \n.\nเพ:ข!i่\nก\nmm\n:wiil:\nr.\nlil\nแii\"\nแท่\naii:",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 23.074
+        }
+    },
+    {
+        "filename": "images-4-_jpeg.rf.72feb549688199a63327249927069f22.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.251
+        },
+        "easyocr": {
+            "raw_text": "::\n::\n/`:\n.\n...\nไ\n;`!\natl.\n::`\nก.\n:: .::\n:.\n..\n:..\nกะ\n!1::1;:\nโม.\n: :.`;\nli..il\n.;:\niin.\n::.:.\n::. :.:\nui..\n. .... ..\n/:; .\n..``::\n1.::\n`:.:\n!า!\nย\n.i.`:\nน\n:.:..`\nม\n :: :",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 26.346
+        }
+    },
+    {
+        "filename": "images_jpeg.rf.6520febfb002f112fa441e42de1b4bb2.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.265
+        },
+        "easyocr": {
+            "raw_text": ":*\na\n:.\ns\nรู้\n=\n.\n::.\n.",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 14.0
+        }
+    },
+    {
+        "filename": "images_jpeg.rf.969698b4384dcf62fbc17f8449c5f726.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.271
+        },
+        "easyocr": {
+            "raw_text": "::: :,\ni;\n:..\n:..\nมงทิาะาัาาายเาาน\n1:: ,|.::,:'::: :1:\n.เ0า\n.!::\n..:\n::.ปนงย1\ncud\n.สร้ยบม.\n. .::\n::.`:\n.\"`: ,`:.!.\nคแ\n.เ.\n::..,\n: :!\n*::::",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 21.6
+        }
+    },
+    {
+        "filename": "images_jpeg.rf.f3612d60b38b7b7b1642e8395987dc47.jpg",
+        "tesseract": {
+            "raw_text": "peer meh Ee          *\n 5 0    .   .\n-\n\n-\n\nจะซี่-\n\nก ม\ncares ag. wd    ”\nบไมดกี     -\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.468
+        },
+        "easyocr": {
+            "raw_text": "..\n:::.'!!\naitt. dasv\niig บ ย\n.ก.\n.: ::.1>.:4|!\nมบี ก.\nu.\np.t:n\nยนีเกา\n. .:i5..",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 18.2
+        }
+    },
+    {
+        "filename": "IMG_9840_1620x1080_jpeg.rf.0678e38c58a1b62ed8289c55429bdd25.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.258
+        },
+        "easyocr": {
+            "raw_text": "aoh\nslild.\n:,;:.\n.\n.\n::n\nfi..\na.:.าา\n:!:\naist ขทห\n;:;\n:..\nilst 'sn i7\n..;:.!1\n::!1:..4\nแpnis\nแ..มทร:\niaim!นลย\n:'1|\n.aiiiiil\nnitว al:\nรว/ซนม:\n6uit\n.\nเม..\n:::`\n0.`.31\nwfiing\n;?1:\"\nุง;\niกilan ยา{\n:.!.:!?\nแ\n qupqusudun]\niujaแin\n.itiinjil",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 35.856
+        }
+    },
+    {
+        "filename": "IMG_9840_1620x1080_jpeg.rf.7165dcdbe579cfdc66366a6db2d1a80f.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.265
+        },
+        "easyocr": {
+            "raw_text": "lรี่\nีู่\nธี๋\nธิ์\nธิ้\nย\n=ู้\nูะ\nอี้\n.ธี้\na\nse\n=ี่\nตี๋\n.๋\nอี้\nธี๋\n:\nฮีรี\nธิ\n.ว\nลี๋\n:\nา\n3\nธู\nรี๋\n.ี\n.\nอ:อี\nรู",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "รี่\nีู่\nธี๋\nธิ์\nธิ้"
+            },
+            "time_seconds": 25.471
+        }
+    },
+    {
+        "filename": "puk73nizs5TfjeXr4x5-o_jpeg.rf.4310bf125a752089aa5aea0012685836.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.264
+        },
+        "easyocr": {
+            "raw_text": ":.: ..\n}\nฉัำมงๆู\n: :`_\nu.\n: :::,\n. :.:\n.!55/5\ni.\n::::-\n....::\n:.`:.\n::,\nมัดรประจาฬาประหรน\n3.0\n oooa2\n:1299\n:โงต็กจมันทนํ\n::`..::::.::.\nนพ\n:::: ::  :::\n:.` ::::. :. .:\nชม\n.ร..\n:.`\n:))::. .\n: ..::.::.*.\nกาะบา\nเมออ:\n...\n:.นก\n;.`:``!:\n15:601211:\n:a.\n..`\npiน.\n::,.:`: :",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "กาะบา\nเมออ"
+            },
+            "time_seconds": 30.222
+        }
+    },
+    {
+        "filename": "puk73nizs5TfjeXr4x5-o_jpeg.rf.8f944d4b13dd42ec090c1309bc3d1297.jpg",
+        "tesseract": {
+            "raw_text": "eet wil                           ห8 ง 1\ngusta ปกังง\nnese | wen Sl ฒ\n\n' ET OE\n\nเจวย| Sa\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.44
+        },
+        "easyocr": {
+            "raw_text": ".รา\nuะวกาง\n51``::*:|_\nomes)แ&*\nยง\nเนสา\nมยาน\nsstทชฺข\n.นย\nบ.\nแน\n..เพ\nมรางาา(\n836|``3907};\ni6s.95+1::!\"\n4.\naugnn :5\npuootun id\nสมบท\njuaniai\nแขบา]\n/d\n.09700 6671.1\nเอก\nแฆา.\n:%!6เช*g\nfsu\nว:::\n%7\nmm8\nซุมนก\nt\nsissi\n.\nali\n: 00;1!:",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ยง\nเนสา\nมยาน"
+            },
+            "time_seconds": 37.142
+        }
+    },
+    {
+        "filename": "puk73nizs5TfjeXr4x5-o_jpeg.rf.cae71467dd69d07b069982e2893ddeb7.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.27
+        },
+        "easyocr": {
+            "raw_text": "t.\n..\n35 0\ny.\n:.\ni..\n,: .\n.\nd.\nd.\n.สมโ;\n.:\n.\n:.\n..\n\nบัตรประจาดัวประชาชัน\nงาประกำล้าประเทาน\n...\nจือค้าแกะยอ๓าง\n.:...:\n::!299\n:0042\nาย\n.caid\nมรัง:\nโซติกสนันทน์:\n.`::..\n.\n:.:/::`:\n::.าันท\nร.ค.\n....\n::31.\na\n.: :.:\nสาฆชา\n..55/5\nเ9\na..\nมา\n.รณบร.\n:มราง\n.รรง\ni....\n..\nาบ\n.า\ni....\n..\n3588\n::.\n.\naบmา",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "บัตรประจาดัวประชาชัน\nงาประกำล้าประเทาน"
+            },
+            "time_seconds": 35.883
+        }
+    },
+    {
+        "filename": "S__19128333_jpeg.rf.1a008cc0c8fa70e60f2eb45faa702776.jpg",
+        "tesseract": {
+            "raw_text": "ออกบเล้1อนู ตสชาษๆ\nays in om\nคา6 68ผู สหกๆ\n\nSQUIB, นอฉารยูนนตด\n\npiu. 00    ร\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "อนู ตสชาษๆ"
+            },
+            "time_seconds": 0.496
+        },
+        "easyocr": {
+            "raw_text": "บ..\n ::.!*:.\n.:::;\n`[.!`.:]{\n.!\ni\njiann\n.ขาต:\n: : !:.\nmasinai.\n wiliiiiitj\n.miine!\npaputhtint,\n: !!..^1\n:.:::!!:.:.\n.::!.\n8ห:ขm๓นุง:\nผดูแงุ\nauli]\n.:,: ::..:\nมเม.:\n0!เว:(!:{4!!\"!:.:'\n::..:.:`.3::\nมเาว\"\n..\njutin\nกรใ\nเ!ร\n;sttirnpiun",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 30.291
+        }
+    },
+    {
+        "filename": "S__19128333_jpeg.rf.619834a4d107d3715d2ca4cc048099f0.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.277
+        },
+        "easyocr": {
+            "raw_text": ".\n;ม}\nเา\na.ll\nไท\n\n.\nส\nบัดรปรํ\nระกายัน\nราาาาปำกณ\n.mh\ni.auมกวา\n ภnriarii\n:สนกทกวัง\ncard.\n.มงมลสท่\n:สึหก๊บ้\nมาย\nมน.\n.!!..\n siithifa\nกบา.\n.สดกฎศไกdอง.:\n..aa].\n nยบ\n.ห.มาารง\nม\nกภากวง\n......\nsi.\n..:.\nย.\n:.jif.\n::::(\nมนาหกย\n.[|\n.\nพรมาบาฬ\n^1:\n่.ช\ndii\n pin",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "บัดรปรํ\nระกายัน\nราาาาปำกณ"
+            },
+            "time_seconds": 37.138
+        }
+    },
+    {
+        "filename": "S__19128333_jpeg.rf.e9341fe8318ef8467bfaa87cc4c9b9db.jpg",
+        "tesseract": {
+            "raw_text": "ป            ครน แม มญี =\n\na.\n\n",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ครน แม มญี"
+            },
+            "time_seconds": 0.313
+        },
+        "easyocr": {
+            "raw_text": "pา\n`::::;\n..p.\n.\nบ;*.}\n![:.,:::\n.131\n.\nnรง\nทนน.\nมฺฺmriinin\niitiil\nfoenitiuni\nmis iน\nเกกนทรaท\npg jlaonan\n,ิหแรนแฆา\n:มมุม\n:::5\n.mimi:\n:; .:]1:\naji๓}\nมmม\nแ9ท!214[\n.1!i|:[|!::.",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "รง\nทนน"
+            },
+            "time_seconds": 31.566
+        }
+    },
+    {
+        "filename": "w644_jpeg.rf.57eb30f1b389fec70295ee38754a1fba.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.276
+        },
+        "easyocr": {
+            "raw_text": "in.\njo\nต\nj\n!ฺาย\nปช\nาว\n.ต\niisi.\nis\nq\n.\nตน\nต\nเ9\njo\nii\nาุ\n69$1180-|\n:809!\nuidn\nวาา\n6?0ใ\nวง(\nnเ8urun\ntueentnน81\n.?รใ\nnuเทรaเท)\n3!80\n!ข?\n'\":!&.\nเาบงยน\n)957\n. a39ก3g๒suท83m\"\nว\n/iu!'8\n๗ุ้บ\"๒\n:?96{\n.aeu\nn.\n3!!0\nsos7\nuniour\nu.endis\ndถนวกแอน1\nวเอย\nม.า\n9389/39๒\nssu\nวuเn\npะวา\nกaseน\nriongn\ngu9833unts8s\nmy\nreri\n nonoวrnuodr\n%61689[&๒168939๒7\n^[48383&๒1338[1381:",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ฺาย\nปช\nาว"
+            },
+            "time_seconds": 45.417
+        }
+    },
+    {
+        "filename": "w644_jpeg.rf.8038881d45b31af2de0c2313422dee88.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.28
+        },
+        "easyocr": {
+            "raw_text": "8ู\na\n3\n3\nธิิี์\nธู๋\nii\nสู\nยู\nรู\nอี๋\nรี่\nรู\ne\n:.\n.\nรู\nx6\nธิ๋\nอี้\nรี\na\ni\n.{\nธุ๋\n.$\n.\nรุ๋\nรู่\nธุ๋\nรู\nธิ๋\n.\nรู์\n.",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ธิิี์\nธู๋"
+            },
+            "time_seconds": 25.772
+        }
+    },
+    {
+        "filename": "w644_jpeg.rf.b411f4fda35e2a983800cd3232eb7976.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.336
+        },
+        "easyocr": {
+            "raw_text": "a\n:$\nธุ้\n::ว:\n.\nเ๘ี\n:.\nอั\n.9\nรี\n..\nรู้ะ\ns\ns\n::\nร.\nซู.\nธุ่\nรู๋\nธุ๋\nธิ๋\nธู่\nรุ\nธู้\n.\n.\ngิ\nตี๋\nรู๋\ngู\nธิ่\nอี\nิู๋\nธุ้\nธู\n..\n.\nรู้\n:ธู๋\nรุู\nรู๋\nอู้\nลู้\nธุ์\ni\n:\nรุ๋\nธู",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "ธุ่\nรู๋\nธุ๋\nธิ๋\nธู่\nรุ\nธู้"
+            },
+            "time_seconds": 35.016
+        }
+    },
+    {
+        "filename": "zlgZF7a_jpeg.rf.14aa020af91fc3a1ef6d1259e61e0d83.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.291
+        },
+        "easyocr": {
+            "raw_text": "รุ์\n^",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 10.292
+        }
+    },
+    {
+        "filename": "zlgZF7a_jpeg.rf.33ce95044b244f3664042abf677e5118.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.265
+        },
+        "easyocr": {
+            "raw_text": ".\nผ\no)\nง.\nอ\nเา\n.\n.\nd.\n:\n:\n.\n;\n^\nรู\n:ู\n?;$.",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 18.061
+        }
+    },
+    {
+        "filename": "zlgZF7a_jpeg.rf.ff8a336df6aad20a9282688748750687.jpg",
+        "tesseract": {
+            "raw_text": "",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": ""
+            },
+            "time_seconds": 0.264
+        },
+        "easyocr": {
+            "raw_text": "d\nเp\n\n..\n!$-\n\nบัดะปาะจาจัวปาะชาาน\n.\n.\n..\n..\n.\n.ารว\n3202\nปรยานา\n..\n..5.\n.\nทานฺบาร\n..\n.\n...\n....\n.\n.\n.\n..\n....\nา.\n..\nาอา\nงวร\n.\n..\n.\n.\nนวรวรร\n..\n2๑๑<\n..\n,^^412\nน\nคววร\n.\n0851\n...\nsozo7\nรวร\nจก\n.\nqosas\n50498 6 47\nร.\n.\n.\n..",
+            "fields": {
+                "id_number": "",
+                "date_of_birth_en": "",
+                "issue_date_en": "",
+                "expiry_date_en": "",
+                "date_of_birth_th": "",
+                "issue_date_th": "",
+                "expiry_date_th": "",
+                "name_english": "",
+                "name_thai": "าอา\nงวร"
+            },
+            "time_seconds": 53.046
+        }
+    }
+]

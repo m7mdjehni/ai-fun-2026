@@ -1,0 +1,33 @@
+{
+    "filename": "S__19128333_jpeg.rf.619834a4d107d3715d2ca4cc048099f0.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.277
+    },
+    "easyocr": {
+        "raw_text": ".\n;ม}\nเา\na.ll\nไท\n\n.\nส\nบัดรปรํ\nระกายัน\nราาาาปำกณ\n.mh\ni.auมกวา\n ภnriarii\n:สนกทกวัง\ncard.\n.มงมลสท่\n:สึหก๊บ้\nมาย\nมน.\n.!!..\n siithifa\nกบา.\n.สดกฎศไกdอง.:\n..aa].\n nยบ\n.ห.มาารง\nม\nกภากวง\n......\nsi.\n..:.\nย.\n:.jif.\n::::(\nมนาหกย\n.[|\n.\nพรมาบาฬ\n^1:\n่.ช\ndii\n pin",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "บัดรปรํ\nระกายัน\nราาาาปำกณ"
+        },
+        "time_seconds": 37.138
+    }
+}

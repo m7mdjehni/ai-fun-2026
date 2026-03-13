@@ -1,0 +1,9 @@
+opencv-python
+pytesseract
+easyocr
+numpy
+pandas
+matplotlib
+pdf2image
+Pillow
+scikit-learn

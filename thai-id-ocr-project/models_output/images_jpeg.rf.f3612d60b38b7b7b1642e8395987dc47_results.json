@@ -1,0 +1,33 @@
+{
+    "filename": "images_jpeg.rf.f3612d60b38b7b7b1642e8395987dc47.jpg",
+    "tesseract": {
+        "raw_text": "peer meh Ee          *\n 5 0    .   .\n-\n\n-\n\nจะซี่-\n\nก ม\ncares ag. wd    ”\nบไมดกี     -\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.468
+    },
+    "easyocr": {
+        "raw_text": "..\n:::.'!!\naitt. dasv\niig บ ย\n.ก.\n.: ::.1>.:4|!\nมบี ก.\nu.\np.t:n\nยนีเกา\n. .:i5..",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 18.2
+    }
+}

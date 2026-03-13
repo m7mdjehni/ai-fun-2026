@@ -1,0 +1,33 @@
+{
+    "filename": "images-1-_jpeg.rf.b920f0dda57ec9cb83fca7ef66e32482.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.49
+    },
+    "easyocr": {
+        "raw_text": "1-::1\n::\nเบะ\nยร::๖!\n.:..\nกำ.าร\nกประา\n2.:\n= :{7.\nวันปี\n..ะ.\n..ร..\nai.\naรา.",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "เบะ\nยร"
+        },
+        "time_seconds": 20.916
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "filename": "S__19128333_jpeg.rf.e9341fe8318ef8467bfaa87cc4c9b9db.jpg",
+    "tesseract": {
+        "raw_text": "ป            ครน แม มญี =\n\na.\n\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "ครน แม มญี"
+        },
+        "time_seconds": 0.313
+    },
+    "easyocr": {
+        "raw_text": "pา\n`::::;\n..p.\n.\nบ;*.}\n![:.,:::\n.131\n.\nnรง\nทนน.\nมฺฺmriinin\niitiil\nfoenitiuni\nmis iน\nเกกนทรaท\npg jlaonan\n,ิหแรนแฆา\n:มมุม\n:::5\n.mimi:\n:; .:]1:\naji๓}\nมmม\nแ9ท!214[\n.1!i|:[|!::.",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "รง\nทนน"
+        },
+        "time_seconds": 31.566
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "filename": "FmR7lm1aAAIa4Qd_jpeg.rf.700c565e14fb35382698af94d76de385.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.541
+    },
+    "easyocr": {
+        "raw_text": "a\ns.\nซุ\nยู่\n.\naร\nรู\n..\ne.\n<\nรู้\nรุ์\n.\nรู้\n.ู๋\nรุ้\nรุ้\n.\n.\nรุ์\n\nธู๋\n;ู่",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "ซุ\nยู่"
+        },
+        "time_seconds": 29.779
+    }
+}

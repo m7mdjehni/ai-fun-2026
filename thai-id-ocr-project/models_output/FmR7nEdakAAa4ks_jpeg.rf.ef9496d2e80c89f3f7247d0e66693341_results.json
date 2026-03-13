@@ -1,0 +1,33 @@
+{
+    "filename": "FmR7nEdakAAa4ks_jpeg.rf.ef9496d2e80c89f3f7247d0e66693341.jpg",
+    "tesseract": {
+        "raw_text": "4 €8 67900 อ01 โ\n\nกณะ ๕วจกอ ขาญาณ๓\n\nฑณเ คระท(พเลระก๒ก\n\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "กณะ ๕วจกอ ขาญาณ๓"
+        },
+        "time_seconds": 0.444
+    },
+    "easyocr": {
+        "raw_text": "..\nmอrเพนa teu\nuหวนท rgm ัusuเ\"ง\n.ง.\n toouinr sz\n..\nscsz rรบ sz  wen\nbaremesed\nรเพ\n slegasm lgpy\nมาน\nsziso0 zcoi\nan !venen  juu\n meuragpeote aspteon\n....\n uunnu\n trov.\n..\n.:.\nวร.?าา\nc8",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 27.408
+    }
+}

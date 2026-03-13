@@ -1,0 +1,33 @@
+{
+    "filename": "front-endtest2_jpg.rf.9232210a93186f90131a033e6c8dfb79.jpg",
+    "tesseract": {
+        "raw_text": "ga อ0ษ100 sowt fines\nCIENT Te R TEESE\n\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.417
+    },
+    "easyocr": {
+        "raw_text": "|8+\n: +--\"\nยเ\naa\nt\nanst\n.ต.ว\nมบ\n.uรา\nu9\n.ngoes\nss ogtoo souc\nsoaceamneatse. nang\naน.\nzงย.\n..ท\n.ทาา\naonan",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 26.876
+    }
+}

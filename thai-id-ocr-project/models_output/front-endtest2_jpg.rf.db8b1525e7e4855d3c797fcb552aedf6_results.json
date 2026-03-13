@@ -1,0 +1,33 @@
+{
+    "filename": "front-endtest2_jpg.rf.db8b1525e7e4855d3c797fcb552aedf6.jpg",
+    "tesseract": {
+        "raw_text": "บดร1ระงาต กระช ขน่าน, National ID Coed\nสลล\n\nเล ณ 0ปไไ7ก   4     ,  4\nน CME Wo ในต  จึงไพศาล\noy.\ntoe     rae’\ntear oat 42\n\nก 2าด [พล ต\n\nลงง จจิ\n\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "ระงาต กระช ขน่าน"
+        },
+        "time_seconds": 0.707
+    },
+    "easyocr": {
+        "raw_text": "มัศรประจาตัวประชาชน์\nmiai pational qd ciid\nท\n.\ni0 01 693\n..า.\nนายฺากฤษฎีพานด:จึงไฆศาล\nก..\nม::\ni..i\n chuagphasal\nเา .สเมชารม.\ndaant\n`.: .:: :)\nภุชเนาต่าาเง\nมยบ\nแวเทพมาัมทมี่\n:../:;\nเ:ร.:\nม\n;:\nเอรบาร\n..\n.า",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "ภุชเนาต่าาเง\nมยบ\nแวเทพมาัมทมี่"
+        },
+        "time_seconds": 35.413
+    }
+}

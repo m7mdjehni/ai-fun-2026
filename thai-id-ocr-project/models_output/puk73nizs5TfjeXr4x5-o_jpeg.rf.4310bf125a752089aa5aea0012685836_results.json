@@ -1,0 +1,33 @@
+{
+    "filename": "puk73nizs5TfjeXr4x5-o_jpeg.rf.4310bf125a752089aa5aea0012685836.jpg",
+    "tesseract": {
+        "raw_text": "",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.264
+    },
+    "easyocr": {
+        "raw_text": ":.: ..\n}\nฉัำมงๆู\n: :`_\nu.\n: :::,\n. :.:\n.!55/5\ni.\n::::-\n....::\n:.`:.\n::,\nมัดรประจาฬาประหรน\n3.0\n oooa2\n:1299\n:โงต็กจมันทนํ\n::`..::::.::.\nนพ\n:::: ::  :::\n:.` ::::. :. .:\nชม\n.ร..\n:.`\n:))::. .\n: ..::.::.*.\nกาะบา\nเมออ:\n...\n:.นก\n;.`:``!:\n15:601211:\n:a.\n..`\npiน.\n::,.:`: :",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "กาะบา\nเมออ"
+        },
+        "time_seconds": 30.222
+    }
+}

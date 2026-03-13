@@ -1,0 +1,33 @@
+{
+    "filename": "images-3-_jpeg.rf.bfd290f917a5b445130599903901d717.jpg",
+    "tesseract": {
+        "raw_text": "เจนงน Pas a อ งล\n\n=   ats  ‘ ge\n\nเจน  fae\n\nAy         งุพ:\n\nฆ,\n\n",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": ""
+        },
+        "time_seconds": 0.456
+    },
+    "easyocr": {
+        "raw_text": ";;ง\n#|.\njlil\n/:. `\n:;]iย!!ii\n,ุ`|]\n.:.:\nเฆ\nตาฟ]\n.;|:::|/1:!\n,:::|\n.:เห]กฆ.]ทระยย\njuท\n:.\"1|1;:\njมื่l\n;;.::.!::\n:iสi.\n:)ll\n:|]`.::\n.i.. il\n..",
+        "fields": {
+            "id_number": "",
+            "date_of_birth_en": "",
+            "issue_date_en": "",
+            "expiry_date_en": "",
+            "date_of_birth_th": "",
+            "issue_date_th": "",
+            "expiry_date_th": "",
+            "name_english": "",
+            "name_thai": "เฆ\nตาฟ"
+        },
+        "time_seconds": 20.73
+    }
+}
